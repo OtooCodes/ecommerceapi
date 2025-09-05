@@ -7,7 +7,7 @@ This is a simple **E-commerce API** built with FastAPI the using **products, use
 
 ![API Screenshot](https://i.postimg.cc/zXYCQg2D/screencapture-127-0-0-1-8000-docs-2025-09-05-12-23-24.png)
 
-*(The image above shows the FastAPI interactive Swagger docs. To generate your own, run the server and visit `http://127.0.0.1:8000/docs`.)*
+*(The image above shows the FastAPI interactive Swagger docs.)*
 
 ---
 
@@ -27,7 +27,4 @@ This is a simple **E-commerce API** built with FastAPI the using **products, use
 
 - **Checkout**
   - `POST /checkout/{user_id}` → Get an order summary with total cost
-
-
-cd fastapi-ecommerce
 
